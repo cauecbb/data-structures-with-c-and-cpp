@@ -8,7 +8,7 @@ Welcome to my repository dedicated to practicing algorithms, data structures, an
 - **Practical Projects:** Larger projects to apply the knowledge gained.
 
   <img align="center" alt="Caue-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Caue-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+  <img align="center" alt="Caue-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
 ## Repository Structure
 
@@ -38,7 +38,7 @@ If you wish to contribute to this repository, follow these steps:
 
 Feel free to reach out if you have questions, suggestions, or would like to collaborate.
 Caue - contato.cauecbb@gmail.com - www.linkedin.com/in/cauecbb/ . 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+ <img align="center" alt="Caue-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
           
 
 Happy coding! 🚀
