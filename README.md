@@ -7,6 +7,9 @@ Welcome to my repository dedicated to practicing algorithms, data structures, an
 - **Algorithms:** Implementations of popular algorithms in C/C++.
 - **Practical Projects:** Larger projects to apply the knowledge gained.
 
+  <img align="center" alt="Caue-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Caue-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+
 ## Repository Structure
 
 - **Arrays & Hashings.**
