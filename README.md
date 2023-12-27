@@ -2,12 +2,19 @@
 
 Welcome to my repository dedicated to practicing algorithms, data structures, and problem-solving exercises in C and C++. The goal of this repository is to help enhance programming skills and understanding of fundamental concepts.
 
-## Repository Structure
-
 - **Logic Exercises:** Challenges to improve your problem-solving skills.
 - **Data Structures:** Implementations of classical data structures in C/C++.
 - **Algorithms:** Implementations of popular algorithms in C/C++.
 - **Practical Projects:** Larger projects to apply the knowledge gained.
+
+## Repository Structure
+
+- **Arrays & Hashings.**
+- **Trees.**
+- **Heap and Graphs.**
+- **Dynamic Programming.**  
+- **Math & Geometry.**
+- **Leetcode Exercises and Resolutions:** Top Interview Questions. 
 
 ## How to Contribute
 
