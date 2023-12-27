@@ -23,7 +23,6 @@ If you wish to contribute to this repository, follow these steps:
 ## Additional Resources
 
 - [LeetCode](https://leetcode.com/): Platform for algorithm practice.
-- [GeeksforGeeks](https://www.geeksforgeeks.org/): Comprehensive resources on algorithms and data structures.
 
 ## Contact
 
