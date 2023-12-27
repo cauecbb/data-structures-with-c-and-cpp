@@ -37,6 +37,8 @@ If you wish to contribute to this repository, follow these steps:
 ## Contact
 
 Feel free to reach out if you have questions, suggestions, or would like to collaborate.
-Caue - contato.cauecbb@gmail.com - www.linkedin.com/in/cauecbb/ .
+Caue - contato.cauecbb@gmail.com - www.linkedin.com/in/cauecbb/ . 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+          
 
 Happy coding! 🚀
