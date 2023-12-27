@@ -22,7 +22,7 @@ If you wish to contribute to this repository, follow these steps:
 
 ## Additional Resources
 
-- [LeetCode](https://leetcode.com/): Platform for algorithm practice.
+- [LeetCode](https://leetcode.com/): Platform for algorithm practice (Personally, my favorite website for practicing algorithm and data structure exercises).
 
 ## Contact
 
